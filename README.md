@@ -43,6 +43,7 @@ This repository documents my journey through a 30-day challenge focused on web D
 </table>
 
 <br>
+
 # Resources
 
 <p>
