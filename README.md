@@ -34,7 +34,7 @@ This repository documents my journey through a 30-day challenge focused on web D
       <td>Learned how to use github to host images and generate link of images for projects in Bigdevsoon Challenges</td>
     </tr
     <tr>
-      <td></td>
+      <td>2</td>
       <td></td>
       <td></td>
       <td></td>
