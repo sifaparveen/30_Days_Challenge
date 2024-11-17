@@ -1,8 +1,8 @@
 # <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> 30_Days_Challenge <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
 
-Start Date: 15 November 2024
+Start Date: 14 November 2024
 <br>
-End Date: 14 December 2024
+End Date: 13 December 2024
 <br>
 
 # Overview
@@ -29,15 +29,27 @@ This repository documents my journey through a 30-day challenge focused on web D
   <tbody>
     <tr>
       <td>1</td>
+      <td>14/11/2024</td>
+      <td>created Redme file of 30 days challenge</td>
+      <td>learn structure of readme file, added animated icons in readme.</td>
+    </tr>
+    <tr>
+      <td>2</td>
       <td>15/11/2024</td>
       <td>made a repository of WEB-Development-Projects and added 7th project in it (Add To CART)</td>
       <td>Learned how to use github to host images and generate link of images for projects in Bigdevsoon Challenges</td>
-    </tr
+    </tr>
     <tr>
-      <td>2</td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>3</td>
+      <td>16/11/2024</td>
+      <td>had a high fever 😔😔</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>17/11/2024</td>
+      <td>Created home page of instagram</td>
+      <td>learn about svg icons anmd how you dont need to send images too view webpage.</td>
     </tr>
   </tbody>
 </table>
