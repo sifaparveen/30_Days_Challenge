@@ -51,6 +51,12 @@ This repository documents my journey through a 30-day challenge focused on web D
       <td>Created home page of instagram</td>
       <td>learn about svg icons anmd how you dont need to send images too view webpage.</td>
     </tr>
+    <tr>
+      <td>5</td>
+      <td>18/11/2024</td>
+      <td></td>
+      <td></td>
+    </tr>
   </tbody>
 </table>
 
