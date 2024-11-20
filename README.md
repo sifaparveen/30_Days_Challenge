@@ -54,8 +54,20 @@ This repository documents my journey through a 30-day challenge focused on web D
     <tr>
       <td>5</td>
       <td>18/11/2024</td>
-      <td></td>
-      <td></td>
+      <td>Created a web page of success and stories of a company and is done until problem Statement</td>
+      <td>Adding multiple background images and using flexbox to make multiple layout in a section</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>19/11/2024</td>
+      <td>Created a web page of success and stories of a company and is done until illustration</td>
+      <td>learn uses of flexbox in advanced way</td>
+    </tr>
+     <tr>
+      <td>7</td>
+      <td>20/11/2024</td>
+      <td>Created color palette and add amny illustraion </td>
+      <td>learn uses of grid to amke color palette, a bit challenging</td>
     </tr>
   </tbody>
 </table>
