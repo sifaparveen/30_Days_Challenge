@@ -69,6 +69,12 @@ This repository documents my journey through a 30-day challenge focused on web D
       <td>Created color palette and add amny illustraion </td>
       <td>learn uses of grid to amke color palette, a bit challenging</td>
     </tr>
+     <tr>
+      <td>8</td>
+      <td>21/11/2024</td>
+      <td>made a game- Guess the number! using javascript </td>
+      <td>learn dom manipulation</td>
+    </tr>
   </tbody>
 </table>
 
