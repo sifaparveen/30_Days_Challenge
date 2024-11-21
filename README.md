@@ -73,7 +73,9 @@ This repository documents my journey through a 30-day challenge focused on web D
       <td>8</td>
       <td>21/11/2024</td>
       <td>made a game- Guess the number! using javascript </td>
-      <td>learn dom manipulation</td>
+      <td>learn dom manipulation 
+        <br>link:- https://guessthenumber-snowy.vercel.app/
+      </td>
     </tr>
   </tbody>
 </table>
