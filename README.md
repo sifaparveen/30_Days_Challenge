@@ -77,6 +77,12 @@ This repository documents my journey through a 30-day challenge focused on web D
         <br>link:- https://guessthenumber-snowy.vercel.app/
       </td>
     </tr>
+     <tr>
+      <td>9</td>
+      <td>22/11/2024</td>
+      <td></td>
+      <td></td>
+    </tr>
   </tbody>
 </table>
 
