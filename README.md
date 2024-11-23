@@ -80,8 +80,8 @@ This repository documents my journey through a 30-day challenge focused on web D
      <tr>
       <td>9</td>
       <td>22/11/2024</td>
-      <td></td>
-      <td></td>
+      <td>Worked on the previous project "Guess the number"</td>
+      <td>Learn how to write clean code</td>
     </tr>
   </tbody>
 </table>
