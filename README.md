@@ -89,6 +89,12 @@ This repository documents my journey through a 30-day challenge focused on web D
       <td>Worked on the previous project "Guess the number"</td>
       <td></td>
     </tr>
+    <tr>
+      <td>11</td>
+      <td>24/11/2024</td>
+      <td></td>
+      <td></td>
+    </tr>
   </tbody>
 </table>
 
