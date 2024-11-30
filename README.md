@@ -66,8 +66,8 @@ This repository documents my journey through a 30-day challenge focused on web D
      <tr>
       <td>7</td>
       <td>20/11/2024</td>
-      <td>Created color palette and add amny illustraion </td>
-      <td>learn uses of grid to amke color palette, a bit challenging</td>
+      <td>Created color palette and add many illustraion </td>
+      <td>learn uses of grid to make color palette, a bit challenging</td>
     </tr>
      <tr>
       <td>8</td>
@@ -92,26 +92,26 @@ This repository documents my journey through a 30-day challenge focused on web D
     <tr>
       <td>11</td>
       <td>24/11/2024</td>
-      <td></td>
-      <td></td>
+      <td>work on Cremics project</td>
+      <td>made it responsive</td>
     </tr>
     <tr>
       <td>12</td>
       <td>25/11/2024</td>
-      <td></td>
-      <td></td>
+      <td>Worked on Cost astimator project</td>
+      <td>made it responsive</td>
     </tr>
     <tr>
       <td>13</td>
       <td>26/11/2024</td>
-      <td></td>
-      <td></td>
+      <td>Work on Grid Project</td>
+      <td>made it responsive</td>
     </tr>
     <tr>
       <td>14</td>
       <td>27/11/2024</td>
-      <td></td>
-      <td></td>
+      <td>Work on Resort project</td>
+      <td>made it responsive</td>
     </tr>
     <tr>
       <td>15</td>
