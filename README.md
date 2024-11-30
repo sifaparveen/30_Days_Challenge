@@ -129,7 +129,8 @@ This repository documents my journey through a 30-day challenge focused on web D
       <td>17</td>
       <td>30/11/2024</td>
       <td>Created a sample modal window</td>
-      <td>use keyboard functionality, keydown on esc button</td>
+      <td>use keyboard functionality, keydown on esc button
+      <br> Final Project: https://modals-one.vercel.app/</td>
     </tr>
   </tbody>
 </table>
