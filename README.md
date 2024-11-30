@@ -117,7 +117,7 @@ This repository documents my journey through a 30-day challenge focused on web D
       <td>15</td>
       <td>28/11/2024</td>
       <td>Created a sample modal window</td>
-      <td>just written htl and css code</td>
+      <td>just written html and css code</td>
     </tr>
     <tr>
       <td>16</td>
