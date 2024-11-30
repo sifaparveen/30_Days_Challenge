@@ -87,13 +87,49 @@ This repository documents my journey through a 30-day challenge focused on web D
       <td>10</td>
       <td>23/11/2024</td>
       <td>Worked on the previous project "Guess the number"</td>
-      <td></td>
+      <td>made some minnor changes</td>
     </tr>
     <tr>
       <td>11</td>
       <td>24/11/2024</td>
       <td></td>
       <td></td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>25/11/2024</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>26/11/2024</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>27/11/2024</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td>28/11/2024</td>
+      <td>Created a sample modal window</td>
+      <td>just written htl and css code</td>
+    </tr>
+    <tr>
+      <td>16</td>
+      <td>29/11/2024</td>
+      <td>Created a sample modal window</td>
+      <td>added functionality to button and close the window, learn about classList.</td>
+    </tr>
+    <tr>
+      <td>17</td>
+      <td>30/11/2024</td>
+      <td>Created a sample modal window</td>
+      <td>use keyboard functionality, keydown on esc button</td>
     </tr>
   </tbody>
 </table>
