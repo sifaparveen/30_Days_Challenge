@@ -135,8 +135,8 @@ This repository documents my journey through a 30-day challenge focused on web D
      <tr>
       <td>18</td>
       <td>1/12/2024</td>
-      <td></td>
-      <td></td>
+      <td>Created a respository and push the code of practising on data structure , Modern operators and string</td>
+      <td>Done array distructing</td>
     </tr>
   </tbody>
 </table>
