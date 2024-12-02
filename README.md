@@ -138,6 +138,12 @@ This repository documents my journey through a 30-day challenge focused on web D
       <td>Created a respository and push the code of practising on data structure , Modern operators and string</td>
       <td>Done array distructing</td>
     </tr>
+    <tr>
+      <td>19</td>
+      <td>2/12/2024</td>
+      <td>Practiced Obejct Setructing and done assignment 2 in dataStructure repo</td>
+      <td>Learned object distructing</td>
+    </tr>
   </tbody>
 </table>
 
