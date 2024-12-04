@@ -144,6 +144,12 @@ This repository documents my journey through a 30-day challenge focused on web D
       <td>Practiced Obejct Setructing and done assignment 2 in dataStructure repo</td>
       <td>Learned object distructing</td>
     </tr>
+    <tr>
+      <td>20</td>
+      <td>3/12/2024</td>
+      <td>Practiced done assignment 3 in dataStructure repo</td>
+      <td>Learn spread operator</td>
+    </tr>
   </tbody>
 </table>
 
