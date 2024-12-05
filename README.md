@@ -150,6 +150,19 @@ This repository documents my journey through a 30-day challenge focused on web D
       <td>Practiced done assignment 3 in dataStructure repo</td>
       <td>Learn spread operator</td>
     </tr>
+    <tr>
+      <td>21</td>
+      <td>4/12/2024</td>
+      <td>Made a new project about expanding card</td>
+      <td>Done html and css part</td>
+    </tr>
+    <tr>
+      <td>22</td>
+      <td>5/12/2024</td>
+      <td>Made a new project about expanding card</td>
+      <td>Done javscript part
+      <br>Project Live link: https://expanding-card-pi.vercel.app/</td>
+    </tr>
   </tbody>
 </table>
 
