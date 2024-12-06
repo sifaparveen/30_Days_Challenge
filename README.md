@@ -163,6 +163,12 @@ This repository documents my journey through a 30-day challenge focused on web D
       <td>Done javscript part
       <br>Project Live link: https://expanding-card-pi.vercel.app/</td>
     </tr>
+     <tr>
+      <td>23</td>
+      <td>6/12/2024</td>
+      <td></td>
+      <td></td>
+    </tr>
   </tbody>
 </table>
 
