@@ -166,8 +166,32 @@ This repository documents my journey through a 30-day challenge focused on web D
      <tr>
       <td>23</td>
       <td>6/12/2024</td>
-      <td></td>
-      <td></td>
+      <td>Made a new project about expanding card</td>
+      <td>work on expanding card project</td>
+    </tr>
+    <tr>
+      <td>24</td>
+      <td>7/12/2024</td>
+      <td>Practiced done assignment 4 and 5 in dataStructure repo</td>
+      <td>Learn spread and rest operator</td>
+    </tr>
+    <tr>
+      <td>25</td>
+      <td>8/12/2024</td>
+      <td>Practiced done assignment 4 and 5 in dataStructure repo</td>
+      <td>learn short circuiting by logical operator</td>
+    </tr>
+    <tr>
+      <td>26</td>
+      <td>9/12/2024</td>
+      <td>Practiced done assignment 6 and 7 in dataStructure repo</td>
+      <td>Learn nullish operator and assignment logical operator</td>
+    </tr>
+    <tr>
+      <td>27</td>
+      <td>10/12/2024</td>
+      <td>done the challenge on data structure</td>
+      <td>practice all the topic</td>
     </tr>
   </tbody>
 </table>
