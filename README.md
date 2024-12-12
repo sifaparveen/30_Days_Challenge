@@ -193,6 +193,18 @@ This repository documents my journey through a 30-day challenge focused on web D
       <td>done the challenge on data structure</td>
       <td>practice all the topic</td>
     </tr>
+    <tr>
+      <td>28</td>
+      <td>11/12/2024</td>
+      <td>Made the pig game(dice game)</td>
+      <td>done basic structuring using html,css and java</td>
+    </tr>
+    <tr>
+      <td>29</td>
+      <td>12/12/2024</td>
+      <td>Made the pig game(dice game)</td>
+      <td>added dice rolling audio and lose audio in the game through javascript.</td>
+    </tr>
   </tbody>
 </table>
 
