@@ -205,6 +205,12 @@ This repository documents my journey through a 30-day challenge focused on web D
       <td>Made the pig game(dice game)</td>
       <td>added dice rolling audio and lose audio in the game through javascript.</td>
     </tr>
+    <tr>
+      <td>30</td>
+      <td>13/12/2024</td>
+      <td>Made the pig game(dice game)</td>
+      <td>made the game responsive</td>
+    </tr>
   </tbody>
 </table>
 
